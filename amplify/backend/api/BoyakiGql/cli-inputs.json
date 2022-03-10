@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "BoyakiGql",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/prashidi/workspace/aws/amplify/amplify-sns-shop/boyaki/amplify/backend/api/BoyakiGql/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authboyakiccc201e5"
+    }
+  }
+}
